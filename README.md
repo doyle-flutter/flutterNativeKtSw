@@ -1,2 +1,2 @@
 # flutterNativeKtSw
-Flutter + Native(Kt, Sw)
+Flutter(Dart) + Native(Kotlin, Swift)
