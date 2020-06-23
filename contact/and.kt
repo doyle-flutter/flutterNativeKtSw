@@ -5,6 +5,7 @@
 // * 주의
 // 권한체크 부분이 제외되었기때문에 직접 앱에서 지정 필요
 // 에뮬레이터에서 실행 할 경우 연락처를 입력해야 함
+// 별도 스레드에서 호출 할 
 
 fun getContactList() {
         val uri: Uri = ContactsContract.Contacts.CONTENT_URI
